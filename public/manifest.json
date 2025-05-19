@@ -1,0 +1,15 @@
+{
+  "short_name": "占星術フード",
+  "name": "伝説の占い師が明かす！食品添加物の真実",
+  "icons": [
+    {
+      "src": "fortune-teller.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#312e81",
+  "background_color": "#312e81"
+}
